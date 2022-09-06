@@ -1,4 +1,4 @@
-import InputText from './InputText.vue'
-import InputTextarea from './InputTextarea.vue'
+import WFInputText from './WFInputText.vue'
+import SESEInputTextarea from './SESEInputTextarea.vue'
 
-export default { InputTextarea, InputText }
+export default { SESEInputTextarea, WFInputText }

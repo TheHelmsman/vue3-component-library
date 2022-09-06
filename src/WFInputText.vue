@@ -3,6 +3,6 @@
 </template>
 <script>
 export default {
-  name: 'InputText'
+  name: 'WFInputText'
 }
 </script>
