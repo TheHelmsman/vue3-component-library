@@ -5,8 +5,8 @@
 This repository represents a small test of vue3 component library created with rollup and vuepress
 
 ### Installation
-```
-npm install @igorv/vue3-component-library
+```bash
+$ npm install @igorv/vue3-component-library
 ```
 
 ### Changing components
@@ -17,7 +17,7 @@ $ git clone https://github.com/TheHelmsman/vue3-component-library.git
 ```
 
 2. Install modules
-```
+```bash
 $ npm Install
 ```
 
